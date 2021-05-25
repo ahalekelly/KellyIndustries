@@ -1,5 +1,5 @@
 # Lynx Parts
-Parts for the Orion Blasters Lynx foam dart blaster. More ergonomic stock, and experimental support for Quick Disconnect (QD) slings.
+Parts for the [Orion Blasters Lynx](https://orionblasters.com/lynx/) foam dart blaster. More ergonomic stock, and experimental support for Quick Disconnect (QD) slings.
 
 Parts List:
 * Metal QD Insert
