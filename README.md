@@ -3,10 +3,12 @@ Parts for the Orion Blasters Lynx foam dart blaster. More ergonomic stock, and e
 
 Parts List:
 * Metal QD Insert
-* M4 x 12-14mm screw & M4 nut
+* M4 x 14mm pan head screw & M4 nut
 * QD Insert A, or QD Insert B & Cover
 
-Prints & hardware available from [PinkDragonTuning](https://www.etsy.com/shop/PinkDragonTuning) or [AliExpress](https://www.aliexpress.com/item/4000369977981.html)
+Prints & hardware available from [PinkDragonTuning](https://www.etsy.com/shop/PinkDragonTuning).
+
+[QD inserts on AliExpress](https://www.aliexpress.com/item/4000369977981.html)
 
 JEM_3DPrints has published a version of the ergo stock with the normal sling loop [here](https://www.thingiverse.com/thing:4759423).
 
