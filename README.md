@@ -11,6 +11,8 @@ Parts List:
 
 Prints & hardware available from [PinkDragonTuning](https://www.etsy.com/shop/PinkDragonTuning).
 
+[Installation video from PinkDragonTuning](https://www.youtube.com/watch?v=zd2mulpd9Ak)
+
 [QD inserts on AliExpress](https://www.aliexpress.com/item/4000369977981.html)
 
 JEM_3DPrints has published a version of the ergo stock with the normal sling loop [here](https://www.thingiverse.com/thing:4759423).
