@@ -17,8 +17,6 @@ Prints & hardware available from [PinkDragonTuning](https://www.etsy.com/shop/Pi
 
 JEM_3DPrints has published a version of the ergo stock with the normal sling loop [here](https://www.thingiverse.com/thing:4759423).
 
-
-Style B, looks nicer but requires a flat head screwdriver to keep the insert from spinning:
 The QD muzzle also requires the rail bar to be slightly shortened or the corner to be cut off for the screw to go through:
 ![image](https://user-images.githubusercontent.com/7078138/119494573-29dc8e00-bcfd-11eb-9a0f-45c7f99bdcda.png)
 
