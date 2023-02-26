@@ -1,5 +1,5 @@
 # Lynx Parts
-Parts for the [Orion Blasters Lynx](https://orionblasters.com/lynx/) foam dart blaster. More ergonomic stock, and experimental support for Quick Disconnect (QD) slings.
+Parts for the [Orion Blasters Lynx](https://orionblasters.com/lynx/) foam dart blaster. More ergonomic stock, and support for Quick Disconnect (QD) slings. Designed for the 2.0.x Lynx, does not support Lynx 2.1
 
 ![Lynx QD](https://user-images.githubusercontent.com/7078138/119494763-5ee8e080-bcfd-11eb-8e02-7524733fba52.PNG)
 ![Muzzle Closeup](https://user-images.githubusercontent.com/7078138/119494774-60b2a400-bcfd-11eb-8f29-634c7995671d.PNG)
@@ -19,5 +19,3 @@ JEM_3DPrints has published a version of the ergo stock with the normal sling loo
 
 The QD muzzle also requires the rail bar to be slightly shortened or the corner to be cut off for the screw to go through:
 ![image](https://user-images.githubusercontent.com/7078138/119494573-29dc8e00-bcfd-11eb-9a0f-45c7f99bdcda.png)
-
-I also modified the Catch3 print to hopefully improve airflow and therefore fps, but it's currently untested. Drilling airflow holes in the spring guide tube might also improve performance.
