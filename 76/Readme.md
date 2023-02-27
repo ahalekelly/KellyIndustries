@@ -13,4 +13,6 @@ If you want to replace the other pins on your 76, you can buy the 22mm Sex Bolt 
 
 The relocated grip works with the original front end, but I prefer the [Sillybutts shroud](https://github.com/Sillybutts/Colonel-Wasp-76-Mods/) which has a fixed barrel for better consistency, and I modified [this AFG by OnlyShellsRemain](https://www.thingiverse.com/thing:4949236) to mount directly to the shroud.
 
+I'm not very good at aesthetics, so I welcome any remixes! I also included two different aesthetic options for the stock
+
 I also designed a printed mag release for people who don't use the relocated grip.
